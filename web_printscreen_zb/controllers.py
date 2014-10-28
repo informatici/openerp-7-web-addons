@@ -181,4 +181,3 @@ class ZbPdfExport(ExportPdf):
                                           ('Content-Type', self.content_type)],
                                  cookies={'fileToken': token})
 
-# vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
